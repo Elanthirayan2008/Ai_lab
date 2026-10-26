@@ -1,0 +1,14 @@
+=============== RESTART: C:/Users/acer/OneDrive/Documents/ex10.py ==============
+===== AI CHATBOT =====
+Type 'bye' to exit.
+You: hi
+Bot: Hello! How can I help you?
+You: name
+Bot: I am an AI chatbot.
+You: men
+Bot: Sorry, I don't understand your question.
+You: ai
+Bot: AI stands for Artificial Intelligence.
+You: no
+Bot: Sorry, I don't understand your question.
+You: 
